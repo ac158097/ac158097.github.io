@@ -1,0 +1,33 @@
+.whatthesigma {
+    background-color: black;
+}
+.ohio {
+    border: 4px solid var(--col);
+    font-size:20px;
+    color: var(--col);
+    width: 600px;
+    height: 1000px;
+}
+.animal {
+    width: 500px;
+    height: 500px;
+}
+.basedOnRizz {
+    text-align: left;
+    border: 4px solid var(--col);
+    font-size:20px;
+    color: var(--col);
+    width: 600px;
+    height: 200px;
+    padding:25px;
+}
+.gyatt{
+    border: 4px solid var(--col);
+    font-size:20px;
+    color: var(--col);
+    width: 100px;
+    height: 100px;
+}
+a {
+    color: var(--col)
+}
