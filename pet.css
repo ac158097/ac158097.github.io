@@ -27,7 +27,6 @@
     color: var(--col);
     width: 150px;
     height: 150px;
-    margin-left: auto;
 }
 a {
     color: var(--col)
