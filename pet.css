@@ -2,7 +2,7 @@
     background-color: #292c3c;
 }
 .gyatt {
-    border: 4px solid var(--col);
+    border: 2px solid var(--col);
     font-size:20px;
     color: var(--col);
     width: 585px;
