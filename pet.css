@@ -27,7 +27,7 @@
     color: var(--col);
     width: 150px;
     height: 150px;
-    margin-right: auto; 
+    float: auto; 
 }
 a {
     color: var(--col)
